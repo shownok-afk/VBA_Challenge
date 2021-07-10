@@ -20,7 +20,7 @@ In the year of 2018 we see a complete opposite picture for most of the stocks. O
 ![2018 Table](https://github.com/shownok-afk/VBA_Challenge/blob/main/Resources/2018%20Table.png)
 
 ## Code refactoring result
-Original code runtime is 0.81 second for 2017 and 0.78 for 2018. After code refectoring runtime improved significantly  as it took 0.68s to run both 2017 and 2018.
+Original code runtime is 0.81 second for 2017 and 0.78 for 2018. After code refectoring runtime improved significantly  as it took 0.12s to run both 2017 and 2018.
 
 ![VBA_Challenge_2017](https://github.com/shownok-afk/VBA_Challenge/blob/main/Resources/VBA_Challenge_2017.png) ![VBA_Challenge_2018](https://github.com/shownok-afk/VBA_Challenge/blob/main/Resources/VBA_Challenge_2018.png) 
 ##Summary
